@@ -1,20 +1,15 @@
-### Hi there 👋
+### Hi there 👋, *I am Anoop*
 
-<!--
-**aps08/aps08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are few things about me:
 
-Here are some ideas to get you started:
+- 🔭 All the project which i make are for leaning purpose.
+- 🌱 I’m currently learning Microservices.
+- 👯 I’m looking to collaborate for publishing a npm package.
+- 💬 Ask me about Java, Web development ( Angular CLI, Spring boot, HTML, CSS, JS),Security.
+- 😄 I sometime hunt bugs on bugcrowd/hackerone.
+- ⚡ Fun fact: I sometimes play CS:GO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-#### Connect
+#### How to reach me
 <p>
  
  [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aps08__)
