@@ -10,7 +10,7 @@ Here are few things about me:
 - ⚡ Fun fact: I sometimes play CS:GO
 
 #### My projects:
- - [Onedrop full-stack application using Angular CLi and Spring boot](https://github.com/aps08/onedrop)
+ - [Onedrop full-stack application using Angular CLi, Spring boot and MySQL](https://github.com/aps08/onedrop)
  - [Front-end mini-projects using HTML, CSS, JS](https://github.com/aps08/web-development)
  - [Billing application using java, javafx and SQlite](https://github.com/aps08/java-Billing-application)
  - [Quiz game using C++](https://github.com/aps08/quiz-game)
