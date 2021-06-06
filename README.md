@@ -14,17 +14,18 @@ Here are a few things about me:
  - [Front-end mini-projects using HTML, CSS, JS](https://github.com/aps08/web-development)
  - [Billing application using java, javafx and SQlite](https://github.com/aps08/java-Billing-application)
  - [Quiz game using C++](https://github.com/aps08/quiz-game)
+
+
+## Articles:
+
+ - [Working with git for Noobs]()
+ - [Website vs Web Application](https://aps08.medium.com/website-vs-web-application-975151803f78)
  
  
  ## My IDE and code editor:
   ![intellij](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
   ![pycharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
   ![code](	https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-## Articles:
-
- - [Working with git for Noobs]()
- - [Website vs Web Application](https://aps08.medium.com/website-vs-web-application-975151803f78)
  
  ## Connect
 <p>
