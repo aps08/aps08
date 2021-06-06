@@ -21,6 +21,10 @@ Here are a few things about me:
   ![pycharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
   ![code](	https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+## Articles:
+
+ - [Working with git for Noobs]()
+ - [Website vs Web Application](https://aps08.medium.com/website-vs-web-application-975151803f78)
  
  ## Connect
 <p>
