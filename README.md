@@ -18,7 +18,7 @@ Here are a few things about me:
 
 ## Articles:
 
- - [Working with git for Noobs]()
+ - [Working with git for Noobs](https://aps08.medium.com/working-with-git-for-noobs-fe07222deca7)
  - [Website vs Web Application](https://aps08.medium.com/website-vs-web-application-975151803f78)
  
  
