@@ -7,7 +7,7 @@ Here are a few things about me:
 - 👯 I’m looking to collaborate for publishing a npm package. ( In my bucket list )
 - 💬 Ask me about Java, Web development or Security.
 - 😄 I sometime hunt bugs on bugcrowd/hackerone.
-- ⚡ In my free time i play CS:GO and CTFs.
+- ⚡ In my free time I Chill on discord, play CS:GO or CTFs.
 
 ## My projects:
  - [Onedrop full-stack application using Angular CLi, Spring boot and MySQL](https://github.com/aps08/onedrop)
