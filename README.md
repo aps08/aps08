@@ -3,8 +3,7 @@
 Here are a few things about me:
 
 - 🔭 All the project which i make are for leaning purpose. And I upload demos of those project on my youtube channel.
-- 🌱 I’m currently learning Microservices.
-- 👯 I’m looking to collaborate for publishing a npm package. ( In my bucket list )
+- 🌱 I’m currently python.
 - 💬 Ask me about Java, Web development or Security.
 - 😄 I sometime hunt bugs on bugcrowd/hackerone.
 - ⚡ In my free time I Chill on discord, play CS:GO or CTFs.
