@@ -6,7 +6,7 @@ Here are a few things about me:
 - 🌱 I’m currently learning python.
 - 💬 Ask me about Java, Web development or Security.
 - 😄 I sometime hunt bugs on bugcrowd/hackerone.
-- ⚡ In my free time I Chill on discord, play CS:GO or CTFs.
+- ⚡ In my free time I do a lot of things.
 
 ## My projects:
  - [Onedrop full-stack application using Angular CLi, Spring boot and MySQL](https://github.com/aps08/onedrop)
