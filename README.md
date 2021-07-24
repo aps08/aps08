@@ -7,6 +7,7 @@ Here are a few things about me:
 - 💬 Ask me about Java, Web development or Security.
 - 😄 I sometime hunt bugs on bugcrowd/hackerone.
 - ⚡ In my free time I do a lot of things.
+- [Learning resources and courses](https://aps08.medium.com/some-priceless-courses-by-udemy-and-github-resources-b0f8b57f5dd1)
 
 ## My projects:
  - [Onedrop full-stack application using Angular CLi, Spring boot and MySQL](https://github.com/aps08/onedrop)
@@ -19,6 +20,7 @@ Here are a few things about me:
 
  - [Working with git for Noobs](https://aps08.medium.com/working-with-git-for-noobs-fe07222deca7)
  - [Website vs Web Application](https://aps08.medium.com/website-vs-web-application-975151803f78)
+ - [Some priceless courses by Udemy and Github resources](https://aps08.medium.com/some-priceless-courses-by-udemy-and-github-resources-b0f8b57f5dd1)
  
  
  ## My IDE and code editor:
