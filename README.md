@@ -3,9 +3,8 @@
 Here are a few things about me:
 
 - 🔭 All the project which i make are for leaning purpose. And I upload demos of those project on my youtube channel.
-- 🌱 I’m currently learning python.
-- 💬 Ask me about Java, Web development or Security.
-- 😄 I sometime hunt bugs on bugcrowd/hackerone.
+- 🌱 I’m currently into Big Data Management and ETL.
+- 💬 Ask me about Java, Database, Web development or Security.
 - ⚡ In my free time I do a lot of things.
 - [Learning resources and courses](https://aps08.medium.com/some-priceless-courses-by-udemy-and-github-resources-b0f8b57f5dd1)
 
