@@ -1,11 +1,10 @@
-## Hi there 👋, *I am Anoop*
+## Hi there 👋, *I am aps08*
 
 Here are a few things about me:
 
 - 🔭 All the project which i make are for leaning purpose. And I upload demos of those project on my youtube channel.
 - 🌱 I’m currently into Big Data Management and ETL.
-- 💬 Ask me about Java, Database, Web development or Security.
-- ⚡ In my free time I do a lot of things.
+- 💬 Ask me about Java, Database, Web development, PySpark or Security.
 - [Learning resources and courses](https://aps08.medium.com/some-priceless-courses-by-udemy-and-github-resources-b0f8b57f5dd1)
 
 ## My projects:
