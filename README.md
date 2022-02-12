@@ -1,5 +1,5 @@
 ## Hi there 👋, *I am Anoop*
-
+[![Anoop's GitHub stats](https://github-readme-stats.vercel.app/api?username=aps08)](https://github.com/aps08/github-readme-stats)
 Here are a few things about me:
 
 - 🔭 All the project which i make are for leaning purpose. And I upload demos of those project on my youtube channel.
