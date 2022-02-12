@@ -1,5 +1,7 @@
 ## Hi there 👋, *I am Anoop*
 [![Anoop's GitHub stats](https://github-readme-stats.vercel.app/api?username=aps08)](https://github.com/aps08/github-readme-stats)
+
+
 Here are a few things about me:
 
 - 🔭 All the project which i make are for leaning purpose. And I upload demos of those project on my youtube channel.
@@ -7,18 +9,11 @@ Here are a few things about me:
 - 💬 Ask me about Java, Database, Web development, PySpark or Security.
 - [Learning resources and courses](https://aps08.medium.com/some-priceless-courses-by-udemy-and-github-resources-b0f8b57f5dd1)
 
-## My projects:
+## Most recent project:
  - [Onedrop full-stack application using Angular CLi, Spring boot and MySQL](https://github.com/aps08/onedrop)
- - [Front-end mini-projects using HTML, CSS, JS](https://github.com/aps08/web-development)
- - [Billing application using java, javafx and SQlite](https://github.com/aps08/java-Billing-application)
- - [Quiz game using C++](https://github.com/aps08/quiz-game)
 
-
-## Articles:
-
+## Most recent article:
  - [Working with git for Noobs](https://aps08.medium.com/working-with-git-for-noobs-fe07222deca7)
- - [Website vs Web Application](https://aps08.medium.com/website-vs-web-application-975151803f78)
- - [Some priceless courses by Udemy and Github resources](https://aps08.medium.com/some-priceless-courses-by-udemy-and-github-resources-b0f8b57f5dd1)
  
  
  ## My IDE and code editor:
