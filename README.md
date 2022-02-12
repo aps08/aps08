@@ -1,17 +1,17 @@
-## Hi there 👋, *I am Anoop*
+### Hi there 👋, *I am Anoop*
 <a href="https://github.com/aps08/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aps08&show_icons=true&theme=dracula" />
 </a>
 
-## My Stack
+### My Stack
 <a href="https://github.com/aps08/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aps08&theme=dracula" />
 </a>
 
-## Most recent project:
+### Most recent project:
  - [Onedrop full-stack application using Angular CLi, Spring boot and MySQL](https://github.com/aps08/onedrop)
 
-## Most recent article:
+### Most recent article:
  - [Working with git for Noobs](https://aps08.medium.com/working-with-git-for-noobs-fe07222deca7)
  
  
@@ -20,7 +20,7 @@
   ![pycharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
   ![code](	https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
  
- ## Connect
+ ### Connect
 <p>
  
  [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aps08__)
