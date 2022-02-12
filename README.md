@@ -8,9 +8,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aps08&theme=dracula" />
 </a>
 
-
-- [Learning resources and courses](https://aps08.medium.com/some-priceless-courses-by-udemy-and-github-resources-b0f8b57f5dd1)
-
 ## Most recent project:
  - [Onedrop full-stack application using Angular CLi, Spring boot and MySQL](https://github.com/aps08/onedrop)
 
