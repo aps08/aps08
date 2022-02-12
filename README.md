@@ -1,5 +1,5 @@
 ## Hi there 👋, *I am Anoop*
-![Anoop's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aps08&show_icons=true&theme=radical&bg_color=white)
+![Anoop's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aps08&show_icons=true&theme=dracula)
 
 
 Here are a few things about me:
