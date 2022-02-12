@@ -1,12 +1,6 @@
 ## Hi there 👋, *I am Anoop*
 ![Anoop's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aps08&show_icons=true&theme=dracula)
 
-
-Here are a few things about me:
-
-- 🔭 All the project which i make are for leaning purpose. And I upload demos of those project on my youtube channel.
-- 🌱 I’m currently into Big Data Management and ETL.
-- 💬 Ask me about Java, Database, Web development, PySpark or Security.
 - [Learning resources and courses](https://aps08.medium.com/some-priceless-courses-by-udemy-and-github-resources-b0f8b57f5dd1)
 
 ## Most recent project:
