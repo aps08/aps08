@@ -1,7 +1,7 @@
 ## Hi there 👋, *I am Anoop*
 ![Anoop's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aps08&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aps08&layout=compact)](https://github.com/aps08/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aps08)](https://github.com/aps08/github-readme-stats)
 
 - [Learning resources and courses](https://aps08.medium.com/some-priceless-courses-by-udemy-and-github-resources-b0f8b57f5dd1)
 
