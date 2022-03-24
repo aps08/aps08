@@ -1,13 +1,6 @@
 ### Hi there 👋, *I am Anoop*
 
-<a href="https://github.com/aps08/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aps08&repo=github-readme-stats" />
-</a>
-
-### My Stack
-<a href="https://github.com/aps08/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aps08&repo=convoychat" />
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aps08)](https://git.io/streak-stats)
 
 ### Most recent project:
  - [Onedrop full-stack application using Angular CLi, Spring boot and MySQL](https://github.com/aps08/onedrop)
