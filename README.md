@@ -7,8 +7,9 @@ I'm a developer based in Bangalore, India. My life circles around python, AWS an
 
 💬 Ask me about python and web-development.
 
-![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aps08&theme=dracula)
-![Sum](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aps08&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aps08&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aps08&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aps08&theme=dracula)
 
 ## Technical Article
  - Python Design Pattern- Behavioral | Part 3 (coming soon...)
