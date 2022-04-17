@@ -9,7 +9,7 @@ I'm a developer based in Bangalore, India. My life circles around python, AWS an
 💬 Ask me about python and web-development.
 
 ## Technical Article:
- - [Python Design Pattern- Behavioral | Part 3] (coming soon..)
+ - Python Design Pattern- Behavioral | Part 3 (coming soon...)
  - [Python Design Pattern- Structural | Part 2](https://aps08.medium.com/python-design-pattern-structural-part-2-38c72737811b)
  - [Python Design Pattern- Creational | Part 1](https://aps08.medium.com/python-design-pattern-creational-part-1-306d3e0f5436)
  - [Working with git for Noobs](https://aps08.medium.com/working-with-git-for-noobs-fe07222deca7)
@@ -28,4 +28,5 @@ I'm a developer based in Bangalore, India. My life circles around python, AWS an
  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aps08)
  [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aps08)
  [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC8biJQnoqm1s2FZ8LK90baA)
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anoopprsingh@gmail.com)
 </p>
