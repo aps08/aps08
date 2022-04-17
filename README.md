@@ -8,19 +8,19 @@ I'm a developer based in Bangalore, India. My life circles around python, AWS an
 
 💬 Ask me about python and web-development.
 
-### Most recent project:
- - [Onedrop full-stack application using Angular CLi, Spring boot and MySQL](https://github.com/aps08/onedrop)
-
-### Most recent article:
+## Technical Article:
+ - [Python Design Pattern- Behavioral | Part 3] (coming soon..)
+ - [Python Design Pattern- Structural | Part 2](https://aps08.medium.com/python-design-pattern-structural-part-2-38c72737811b)
+ - [Python Design Pattern- Creational | Part 1](https://aps08.medium.com/python-design-pattern-creational-part-1-306d3e0f5436)
  - [Working with git for Noobs](https://aps08.medium.com/working-with-git-for-noobs-fe07222deca7)
  
  
- ## My IDE and code editor:
+ ## My Stack:
   ![intellij](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
   ![pycharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
   ![code](	https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
  
- # Connect
+ ## Connect
 <p>
  
  [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aps08__)
