@@ -3,10 +3,11 @@
 
 I'm a developer based in Bangalore, India. My life circles around python, AWS and web-development now. Making mini-project is my hobby. I wish to learn full-stack development in the coming future.
 
-
 👯‍♀️ I'm also looking to collaborate on python and web development related project.
 
 💬 Ask me about python and web-development.
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aps08&theme=dracula)
 
 ## Technical Article
  - Python Design Pattern- Behavioral | Part 3 (coming soon...)
