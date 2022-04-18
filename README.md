@@ -1,5 +1,5 @@
 
-# Hey, I'm Anoop
+# Hey, I'm Anoop <img src="https://komarev.com/ghpvc/?username=aps08&style=for-the-badge">
 
 I'm a developer based in Bangalore, India. My life circles around python, AWS and web-development now. Making mini-project is my hobby. I wish to learn full-stack development in the coming future.
 
@@ -7,9 +7,9 @@ I'm a developer based in Bangalore, India. My life circles around python, AWS an
 
 💬 Ask me about python and web-development.
 
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=aps08&style=for-the-badge">
-</p>
+<!-- <p align="center">
+ 
+</p> -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aps08&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aps08&theme=dracula)
