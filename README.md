@@ -8,7 +8,7 @@ I'm a developer based in Bangalore, India. My life circles around python, AWS an
 💬 Ask me about python and web-development.
 
 <p align="center">
-![](https://komarev.com/ghpvc/?username=aps08&style=for-the-badge)
+ <img src="https://komarev.com/ghpvc/?username=aps08&style=for-the-badge">
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aps08&theme=dracula)
