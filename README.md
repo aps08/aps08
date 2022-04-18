@@ -7,6 +7,8 @@ I'm a developer based in Bangalore, India. My life circles around python, AWS an
 
 💬 Ask me about python and web-development.
 
+![](https://komarev.com/ghpvc/?username=aps08&color=green)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aps08&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aps08&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aps08&theme=dracula)
