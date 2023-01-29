@@ -15,10 +15,9 @@ I'm a developer based in Bangalore, India. My life circles around python, AWS an
 </p>
 
 ## Technical Article
+ - [Automation with Github Actions](https://aps08.medium.com/automation-with-github-actions-df3bc898d83c)
  - [What are you missing? ft.Python](https://aps08.medium.com/what-are-you-missing-ft-python-4c5129c4d7ab)
  - [Python Design Pattern- Behavioral | Part 3](https://aps08.medium.com/python-design-pattern-behavioral-part-3-f260b36dca1a)
- - [Python Design Pattern- Structural | Part 2](https://aps08.medium.com/python-design-pattern-structural-part-2-38c72737811b)
- - [Python Design Pattern- Creational | Part 1](https://aps08.medium.com/python-design-pattern-creational-part-1-306d3e0f5436)
  
  
  ## My Stack, IDE and Text Editor
