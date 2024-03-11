@@ -2,7 +2,7 @@
 # Hey, I'm Anoop 
 <img src="https://komarev.com/ghpvc/?username=aps08&style=for-the-badge">
 
-I'm a developer based in Bangalore, India. My life circles around python, AWS and web-development now. Making mini-project is my hobby. I wish to learn full-stack development in the coming future.
+I'm a developer based in Bangalore, India. My life circles around python, AWS and web-development now. Making mini-project is my hobby. 
 
 👯‍♀️ I'm also looking to collaborate on python and web development related project.
 
