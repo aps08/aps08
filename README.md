@@ -15,6 +15,8 @@ I'm a developer based in Bangalore, India. My life circles around python, AWS an
 </p>
 
 ## Technical Article
+ - [Python Code So Fresh, It’s SOLID!](https://aps08.medium.com/creating-infrastructure-in-few-clicks-cloudformation-on-aws-5d699a33957e)
+ - [Creating Infrastructure In Few Clicks: CloudFormation on AWS](https://aps08.medium.com/creating-infrastructure-in-few-clicks-cloudformation-on-aws-5d699a33957e)
  - [AWS Glue, DataBricks & AWS S3: The Holy Trinity of Data Integration](https://aps08.medium.com/aws-glue-databricks-aws-s3-the-holy-trinity-of-data-integration-990b672be7ba)
  - [Unleashing the Power of CloudFront: Mastering Pre-Signed URLs for Secure Content Delivery](https://medium.com/@aps08/unleashing-the-power-of-cloudfront-mastering-pre-signed-urls-for-secure-content-delivery-9f2c52d51aa6)
  - [Automation with Github Actions](https://aps08.medium.com/automation-with-github-actions-df3bc898d83c)
