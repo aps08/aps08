@@ -20,8 +20,6 @@ I'm a developer based in Bangalore, India. My life circles around python, AWS an
  - [AWS Glue, DataBricks & AWS S3: The Holy Trinity of Data Integration](https://aps08.medium.com/aws-glue-databricks-aws-s3-the-holy-trinity-of-data-integration-990b672be7ba)
  - [Unleashing the Power of CloudFront: Mastering Pre-Signed URLs for Secure Content Delivery](https://medium.com/@aps08/unleashing-the-power-of-cloudfront-mastering-pre-signed-urls-for-secure-content-delivery-9f2c52d51aa6)
  - [Automation with Github Actions](https://aps08.medium.com/automation-with-github-actions-df3bc898d83c)
- - [What are you missing? ft.Python](https://aps08.medium.com/what-are-you-missing-ft-python-4c5129c4d7ab)
- - [Python Design Pattern- Behavioral | Part 3](https://aps08.medium.com/python-design-pattern-behavioral-part-3-f260b36dca1a)
  
  
  ## My Stack, IDE and Text Editor
