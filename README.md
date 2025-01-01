@@ -15,6 +15,7 @@ I'm a developer based in Bangalore, India. My life circles around python, AWS an
 </p>
 
 ## Technical Article
+ - [PII Data with DataBricks](https://aps08.medium.com/pii-data-with-databricks-7c0e6cd1d16a)
  - [Python Code So Fresh, It’s SOLID!](https://aps08.medium.com/creating-infrastructure-in-few-clicks-cloudformation-on-aws-5d699a33957e)
  - [Creating Infrastructure In Few Clicks: CloudFormation on AWS](https://aps08.medium.com/creating-infrastructure-in-few-clicks-cloudformation-on-aws-5d699a33957e)
  - [AWS Glue, DataBricks & AWS S3: The Holy Trinity of Data Integration](https://aps08.medium.com/aws-glue-databricks-aws-s3-the-holy-trinity-of-data-integration-990b672be7ba)
