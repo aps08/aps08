@@ -14,12 +14,6 @@ I'm a developer based in Bangalore, India, who loves to build things. My tech jo
 
 💬 Ask me about building scalable backend systems, RAG applications, or just chat about cool tech!
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aps08&theme=dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aps08&theme=dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aps08&theme=dark&utcOffset=5">
-</p>
-
 ### Skills & Tech Stack
 
 <p align="left">
@@ -72,6 +66,21 @@ I'm a developer based in Bangalore, India, who loves to build things. My tech jo
 <!-- BLOG-POST-LIST:END -->
 
 *(Check out more on my [Medium](https://aps08.medium.com))*
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aps08&theme=dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aps08&theme=dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aps08&theme=dark&utcOffset=5">
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aps08/aps08/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aps08/aps08/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aps08/aps08/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 
 ### Where to find me
 
