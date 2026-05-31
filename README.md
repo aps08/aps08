@@ -1,5 +1,9 @@
 # Hey there, I'm Anoop! 👋
 
+<a href="https://github.com/aps08">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2088FF&width=435&lines=Software+Developer+in+Bangalore;Python,+GenAI+%26+AWS+Enthusiast;Building+Scalable+Backend+Systems;Crafting+Smooth+Web+Experiences" alt="Typing SVG" />
+</a>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aps08&style=flat-square&color=blue">
 </p>
@@ -11,9 +15,9 @@ I'm a developer based in Bangalore, India, who loves to build things. My tech jo
 💬 Ask me about building scalable backend systems, RAG applications, or just chat about cool tech!
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aps08&theme=dracula">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aps08&theme=dracula">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aps08&theme=dracula">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aps08&theme=dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aps08&theme=dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aps08&theme=dark&utcOffset=5">
 </p>
 
 ### Skills & Tech Stack
