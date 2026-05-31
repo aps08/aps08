@@ -1,12 +1,14 @@
+# Hey there, I'm Anoop! 👋
 
-# Hey, I'm Anoop 
-<img src="https://komarev.com/ghpvc/?username=aps08&style=for-the-badge">
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aps08&style=flat-square&color=blue">
+</p>
 
-I'm a developer based in Bangalore, India. My life circles around python, AWS and web-development now. Making mini-project is my hobby. 
+I'm a developer based in Bangalore, India, who loves to build things. My tech journey revolves around Python, GenAI, AWS, and crafting smooth web experiences. With over 4 years of experience, I enjoy diving deep into distributed systems, automated data pipelines, and anything that makes developers' lives easier. Making mini-projects and tinkering with new AI tools is my jam! 🚀
 
-👯‍♀️ I'm also looking to collaborate on python and web development related project.
+👯‍♀️ I'm always open to collaborating on Python, GenAI, and web development projects.
 
-💬 Ask me about python and web-development.
+💬 Ask me about building scalable backend systems, RAG applications, or just chat about cool tech!
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aps08&theme=dracula">
@@ -14,37 +16,63 @@ I'm a developer based in Bangalore, India. My life circles around python, AWS an
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aps08&theme=dracula">
 </p>
 
-## Technical Article
- - [PII Data with DataBricks](https://aps08.medium.com/pii-data-with-databricks-7c0e6cd1d16a)
- - [Python Code So Fresh, It’s SOLID!](https://aps08.medium.com/creating-infrastructure-in-few-clicks-cloudformation-on-aws-5d699a33957e)
- - [Creating Infrastructure In Few Clicks: CloudFormation on AWS](https://aps08.medium.com/creating-infrastructure-in-few-clicks-cloudformation-on-aws-5d699a33957e)
- - [AWS Glue, DataBricks & AWS S3: The Holy Trinity of Data Integration](https://aps08.medium.com/aws-glue-databricks-aws-s3-the-holy-trinity-of-data-integration-990b672be7ba)
- - [Unleashing the Power of CloudFront: Mastering Pre-Signed URLs for Secure Content Delivery](https://medium.com/@aps08/unleashing-the-power-of-cloudfront-mastering-pre-signed-urls-for-secure-content-delivery-9f2c52d51aa6)
- - [Automation with Github Actions](https://aps08.medium.com/automation-with-github-actions-df3bc898d83c)
- 
- 
- ## My Stack, IDE and Text Editor
- 
- <p align="left">
-  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
- </p>
- 
- ## Where to find me
- 
+#### Skills & Tech Stack
+
 <p align="left">
- <a href="https://twitter.com/aps08__"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
- <a href="https://medium.com/@aps08"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
- <a href="https://www.linkedin.com/in/aps08"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <a href="https://github.com/aps08"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
- <a href="https://www.youtube.com/channel/UC8biJQnoqm1s2FZ8LK90baA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
- <a href="mailto:anoopprsingh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <!-- Languages & Frameworks -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" title="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" title="JavaScript" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white" title="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white" title="Flask" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white" title="Node.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" title="React" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=selenium&logoColor=white" title="Selenium" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=plastic&logo=playwright&logoColor=white" title="Playwright" />
+  <br>
+  <!-- Data & AI -->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white" title="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" title="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" title="MongoDB" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=plastic&logo=databricks&logoColor=white" title="Databricks" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=plastic&logo=apacheairflow&logoColor=white" title="Apache Airflow" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=plastic&logo=apachespark&logoColor=white" title="Apache Spark" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=plastic&logo=langchain&logoColor=white" title="LangChain" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=plastic&logo=claude&logoColor=white" title="Claude" />
+  <img src="https://img.shields.io/badge/Antigravity-555555?style=plastic&logo=openai&logoColor=white" title="Antigravity" />
+  <br>
+  <!-- Cloud & DevOps -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonwebservices&logoColor=white" title="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=plastic&logo=microsoftazure&logoColor=white" title="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" title="Docker" />
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=plastic&logo=podman&logoColor=white" title="Podman" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=plastic&logo=nginx&logoColor=white" title="NGINX" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=githubactions&logoColor=white" title="GitHub Actions" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=plastic&logo=rabbitmq&logoColor=white" title="RabbitMQ" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white" title="Vercel" />
+  <br>
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=jira&logoColor=white" title="Jira" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=plastic&logo=confluence&logoColor=white" title="Confluence" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=plastic&logo=visualstudiocode&logoColor=white" title="VS Code" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=plastic&logo=cursor&logoColor=white" title="Cursor" />
+</p>
+
+#### Recent Technical Articles
+
+<!-- BLOG-POST-LIST:START -->
+- [🚀Full-Stack Clean Architecture: Best Practices with ⚡FastAPI, ⚛️React, and 🐘PostgreSQL](https://aps08.medium.com/full-stack-clean-architecture-best-practices-with-fastapi-react-and-postgresql-...)
+- [How to Master Postgres CDC: Setting Up Real-Time Data Streaming](https://aps08.medium.com/how-to-master-postgres-cdc-setting-up-real-time-data-streaming-5407dff68051)
+<!-- BLOG-POST-LIST:END -->
+
+*(Check out more on my [Medium](https://aps08.medium.com))*
+
+#### Where to find me
+
+<p align="left">
+  <a href="https://twitter.com/aps08__"><img src="https://img.shields.io/badge/X%2FTwitter-black?logo=x&style=flat&logoColor=gray"></a>
+  <a href="https://medium.com/@aps08"><img src="https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/aps08/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/aps08"><img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white"></a>
+  <a href="https://www.youtube.com/channel/UC8biJQnoqm1s2FZ8LK90baA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white"></a>
+  <a href="mailto:anoopprsingh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"></a>
 </p>
