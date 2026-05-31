@@ -20,41 +20,41 @@ I'm a developer based in Bangalore, India, who loves to build things. My tech jo
 
 <p align="left">
   <!-- Languages & Frameworks -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" title="Python" height="30" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" title="JavaScript" height="30" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white" title="FastAPI" height="30" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white" title="Flask" height="30" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white" title="Node.js" height="30" />
-  <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" title="React" height="30" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=selenium&logoColor=white" title="Selenium" height="30" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=plastic&logo=playwright&logoColor=white" title="Playwright" height="30" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" title="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" title="JavaScript" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white" title="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white" title="Flask" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white" title="Node.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" title="React" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=selenium&logoColor=white" title="Selenium" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=plastic&logo=playwright&logoColor=white" title="Playwright" />
   <br>
   <!-- Data & AI -->
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white" title="PostgreSQL" height="30" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" title="MySQL" height="30" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" title="MongoDB" height="30" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=plastic&logo=databricks&logoColor=white" title="Databricks" height="30" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=plastic&logo=apacheairflow&logoColor=white" title="Apache Airflow" height="30" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=plastic&logo=apachespark&logoColor=white" title="Apache Spark" height="30" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=plastic&logo=langchain&logoColor=white" title="LangChain" height="30" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=plastic&logo=claude&logoColor=white" title="Claude" height="30" />
-  <img src="https://img.shields.io/badge/Antigravity-555555?style=plastic&logo=openai&logoColor=white" title="Antigravity" height="30" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white" title="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" title="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" title="MongoDB" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=plastic&logo=databricks&logoColor=white" title="Databricks" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=plastic&logo=apacheairflow&logoColor=white" title="Apache Airflow" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=plastic&logo=apachespark&logoColor=white" title="Apache Spark" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=plastic&logo=langchain&logoColor=white" title="LangChain" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=plastic&logo=claude&logoColor=white" title="Claude" />
+  <img src="https://img.shields.io/badge/Antigravity-555555?style=plastic&logo=openai&logoColor=white" title="Antigravity" />
   <br>
   <!-- Cloud & DevOps -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonwebservices&logoColor=white" title="AWS" height="30" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=plastic&logo=microsoftazure&logoColor=white" title="Azure" height="30" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" title="Docker" height="30" />
-  <img src="https://img.shields.io/badge/Podman-892CA0?style=plastic&logo=podman&logoColor=white" title="Podman" height="30" />
-  <img src="https://img.shields.io/badge/NGINX-009639?style=plastic&logo=nginx&logoColor=white" title="NGINX" height="30" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=githubactions&logoColor=white" title="GitHub Actions" height="30" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=plastic&logo=rabbitmq&logoColor=white" title="RabbitMQ" height="30" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white" title="Vercel" height="30" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonwebservices&logoColor=white" title="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=plastic&logo=microsoftazure&logoColor=white" title="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" title="Docker" />
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=plastic&logo=podman&logoColor=white" title="Podman" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=plastic&logo=nginx&logoColor=white" title="NGINX" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=githubactions&logoColor=white" title="GitHub Actions" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=plastic&logo=rabbitmq&logoColor=white" title="RabbitMQ" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white" title="Vercel" />
   <br>
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=jira&logoColor=white" title="Jira" height="30" />
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=plastic&logo=confluence&logoColor=white" title="Confluence" height="30" />
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=plastic&logo=visualstudiocode&logoColor=white" title="VS Code" height="30" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=plastic&logo=cursor&logoColor=white" title="Cursor" height="30" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=jira&logoColor=white" title="Jira" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=plastic&logo=confluence&logoColor=white" title="Confluence" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=plastic&logo=visualstudiocode&logoColor=white" title="VS Code" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=plastic&logo=cursor&logoColor=white" title="Cursor" />
 </p>
 
 ### Recent Technical Articles
@@ -72,10 +72,10 @@ I'm a developer based in Bangalore, India, who loves to build things. My tech jo
 ### Where to find me
 
 <p align="left">
-  <a href="https://twitter.com/aps08__"><img src="https://img.shields.io/badge/X%2FTwitter-black?logo=x&style=flat&logoColor=gray" height="30"></a>
-  <a href="https://medium.com/@aps08"><img src="https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white" height="30"></a>
-  <a href="https://www.linkedin.com/in/aps08/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="30"></a>
-  <a href="https://github.com/aps08"><img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" height="30"></a>
-  <a href="https://www.youtube.com/channel/UC8biJQnoqm1s2FZ8LK90baA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" height="30"></a>
-  <a href="mailto:anoopprsingh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" height="30"></a>
+  <a href="https://twitter.com/aps08__"><img src="https://img.shields.io/badge/X%2FTwitter-black?logo=x&style=flat&logoColor=gray"></a>
+  <a href="https://medium.com/@aps08"><img src="https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/aps08/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/aps08"><img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white"></a>
+  <a href="https://www.youtube.com/channel/UC8biJQnoqm1s2FZ8LK90baA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white"></a>
+  <a href="mailto:anoopprsingh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"></a>
 </p>
