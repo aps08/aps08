@@ -58,11 +58,11 @@ I'm a developer based in Bangalore, India, who loves to build things. My tech jo
 ### Recent Technical Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Scaling High-Volume Databases: A Complete Guide to Application-Level Database Sharding with FastAPI](https://aps08.medium.com/scaling-high-volume-databases-a-complete-guide-to-application-level-database-sharding-with-fastapi-a6ca32a35caa?source=rss-26b63011267d------2)
+- [Scaling High-Volume Databases: A Complete Guide to PostgreSQL Table Partitioning with FastAPI](https://aps08.medium.com/scaling-high-volume-databases-a-complete-guide-to-postgresql-table-partitioning-with-fastapi-6f13ec80fe1f?source=rss-26b63011267d------2)
 - [Full-Stack Clean Architecture: Best Practices with ⚡FastAPI, ⚛️React, and PostgreSQL](https://aps08.medium.com/full-stack-clean-architecture-best-practices-with-fastapi-%EF%B8%8Freact-and-postgresql-fff487ed24b4?source=rss-26b63011267d------2)
 - [How to Master Postgres CDC: Setting Up Real-Time Data Streaming](https://aps08.medium.com/how-to-master-postgres-cdc-setting-up-real-time-data-streaming-8b60f98ea2bb?source=rss-26b63011267d------2)
 - [How AWS RDS Scales Storage with No Downtime ⚡](https://towardsdev.com/how-aws-rds-scales-storage-with-no-downtime-d13aab6cc61c?source=rss-26b63011267d------2)
-- [Robust Postgres High Availability: A Professional Guide to Primary-Replica Setup](https://aps08.medium.com/robust-postgres-high-availability-a-professional-guide-to-primary-replica-setup-2b109bc86f3f?source=rss-26b63011267d------2)
-- [From Seconds to Milliseconds: Visualizing Postgres Indexing with Grafana and Prometheus](https://aps08.medium.com/from-seconds-to-milliseconds-visualizing-postgres-indexing-with-grafana-and-prometheus-3c024a4e3c09?source=rss-26b63011267d------2)
 <!-- BLOG-POST-LIST:END -->
 
 *(Check out more on my [Medium](https://aps08.medium.com))*
